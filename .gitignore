@@ -1,0 +1,25 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv
+renv/library/
+renv/staging/
+
+# Archivos temporales
+*_temp.R
+*_temp.*
+
+# Backups locales de la aplicación
+app_backup_before_hero.R
+app_backup_before_css.R
+app_backup_before_helpers.R
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
